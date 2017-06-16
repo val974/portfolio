@@ -1,0 +1,17 @@
+/*GENERAL */
+
+body {}
+/*HEADER */
+header { 
+	background: url("../images/lampe.jpeg") no-repeat center;
+	background: cover;
+	height: 600px;
+	
+}
+
+header li {display: inline-block;
+}
+
+.jumbotron {
+	background: none;
+}
